@@ -1,0 +1,5 @@
+Strategy,Threshold,Missed frauds,False alarms,Total cost
+Flag nothing,inf,1232,0,12320000
+Default 0.5,0.5,4,0,40000
+F1-optimal,0.7062937961927072,4,0,40000
+Cost-optimal,0.11641465794547716,4,77,47700

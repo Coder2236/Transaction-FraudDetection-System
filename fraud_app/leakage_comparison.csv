@@ -1,0 +1,5 @@
+,Precision,Recall,F1,PR-AUC
+Basic features,0.615,0.3125,0.4144,0.3603
+Pre-transaction features,1.0,0.9951,0.9976,0.9975
+Full PaySim columns (incl. post-transaction balances),0.9984,0.9968,0.9976,0.9975
+Tuned XGBoost (FEATURE_MODE = pre),1.0,0.9968,0.9984,0.9975
